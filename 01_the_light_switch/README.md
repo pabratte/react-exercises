@@ -13,3 +13,5 @@ En este ejercicio aprenderás a crear una interfaz interactiva. El objetivo es s
 ## Documentación Oficial Recomendada
 
 👉 **[State: A Component's Memory](https://react.dev/learn/state-a-components-memory)**
+
+![](../assets/light-switch-demo.gif)

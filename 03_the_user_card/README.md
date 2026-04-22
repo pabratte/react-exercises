@@ -10,3 +10,5 @@ En este ejercicio aprenderás a modularizar tu código. Tu misión es lograr que
 
 ## Documentación Oficial Recomendada
 👉 **[Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component)**
+
+![](../assets/user-card-demo.png)

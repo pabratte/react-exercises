@@ -10,3 +10,5 @@ La mayoría de las aplicaciones muestran colecciones de datos. En este ejercicio
 
 ## Documentación Oficial Recomendada
 👉 **[Rendering Lists](https://react.dev/learn/rendering-lists)**
+
+![](../assets/shopping-list-demo.png)

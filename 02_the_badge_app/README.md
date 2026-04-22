@@ -12,3 +12,5 @@
 ## Documentación Oficial Recomendada
 👉 **[Responding to Events](https://react.dev/learn/responding-to-events)**
 👉 **[Sharing State Between Components (Inputs)](https://react.dev/learn/sharing-state-between-components)**
+
+![](../assets/badge-app-demo.gif)
